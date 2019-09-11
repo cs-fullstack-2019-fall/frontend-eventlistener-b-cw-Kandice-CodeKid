@@ -11,3 +11,5 @@ but1.addEventListener('click', function () {
     headEvent.classList.toggle('blueBackground')
 });
 console.log(headNum);
+
+// !! : missing listener for btn2
